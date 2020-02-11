@@ -14,5 +14,13 @@ const findDistinchPairs = (arr=[]) => {
     return hashMap;
 }
 
+//Sort and apply binary search 
+const findDistPairsNext = (arr=[]) => {
+    //Coming soon
+    return [];
+}
+
 const res = findDistinchPairs([1, 7, 5, 9, 2, 12, 3]);
 console.log(res);
+
+
